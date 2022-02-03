@@ -12,7 +12,7 @@
 
   <div class="content-wrapper">
    
-  <?php include 'partials/content.php'; ?>  
+  <?php include 'routes.php'; ?>  
 
   </div>
 
